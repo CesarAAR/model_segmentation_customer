@@ -67,5 +67,5 @@ La segmentación de clientes proporciona una base sólida para estrategias de ma
 
 ### **6. Cómo usar el proyecto**
 
-1.  Clona este repositorio: `git clone [URL_del_repositorio]`
+1.  Clona este repositorio: `git clone https://github.com/CesarAAR/model_segmentation_customer.git`
 2.  Ejecuta el notebook `segmentation_customer_model.ipynb` en un entorno de Jupyter.
